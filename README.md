@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mgianec4, I'm brazilian and I believe that study is never enough.
+- 👀 I’m interested in learn more about Dev, systems, UX design and language codes.
+- 🌱 I’m currently learning JavaScript and UX design at the same time, it's amazing
+- 💞️ I’m looking to collaborate with my curiosity and proactivity.
+- 📫 You can find me in my e-mail m.gianecarvalho@gmail.com or in my instagram @m.giane.c 
